@@ -1,0 +1,14 @@
+C:\Users\natha\OneDrive\Área de Trabalho\Projetos_POO\CalculoDeDuraçãoDeAlbum\CalculoDeDuraçãoDeAlbum\bin\Debug\net8.0\CalculoDeDuraçãoDeAlbum.exe
+C:\Users\natha\OneDrive\Área de Trabalho\Projetos_POO\CalculoDeDuraçãoDeAlbum\CalculoDeDuraçãoDeAlbum\bin\Debug\net8.0\CalculoDeDuraçãoDeAlbum.deps.json
+C:\Users\natha\OneDrive\Área de Trabalho\Projetos_POO\CalculoDeDuraçãoDeAlbum\CalculoDeDuraçãoDeAlbum\bin\Debug\net8.0\CalculoDeDuraçãoDeAlbum.runtimeconfig.json
+C:\Users\natha\OneDrive\Área de Trabalho\Projetos_POO\CalculoDeDuraçãoDeAlbum\CalculoDeDuraçãoDeAlbum\bin\Debug\net8.0\CalculoDeDuraçãoDeAlbum.dll
+C:\Users\natha\OneDrive\Área de Trabalho\Projetos_POO\CalculoDeDuraçãoDeAlbum\CalculoDeDuraçãoDeAlbum\bin\Debug\net8.0\CalculoDeDuraçãoDeAlbum.pdb
+C:\Users\natha\OneDrive\Área de Trabalho\Projetos_POO\CalculoDeDuraçãoDeAlbum\CalculoDeDuraçãoDeAlbum\obj\Debug\net8.0\CalculoDeDuraçãoDeAlbum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\natha\OneDrive\Área de Trabalho\Projetos_POO\CalculoDeDuraçãoDeAlbum\CalculoDeDuraçãoDeAlbum\obj\Debug\net8.0\CalculoDeDuraçãoDeAlbum.AssemblyInfoInputs.cache
+C:\Users\natha\OneDrive\Área de Trabalho\Projetos_POO\CalculoDeDuraçãoDeAlbum\CalculoDeDuraçãoDeAlbum\obj\Debug\net8.0\CalculoDeDuraçãoDeAlbum.AssemblyInfo.cs
+C:\Users\natha\OneDrive\Área de Trabalho\Projetos_POO\CalculoDeDuraçãoDeAlbum\CalculoDeDuraçãoDeAlbum\obj\Debug\net8.0\CalculoDeDuraçãoDeAlbum.csproj.CoreCompileInputs.cache
+C:\Users\natha\OneDrive\Área de Trabalho\Projetos_POO\CalculoDeDuraçãoDeAlbum\CalculoDeDuraçãoDeAlbum\obj\Debug\net8.0\CalculoDeDuraçãoDeAlbum.dll
+C:\Users\natha\OneDrive\Área de Trabalho\Projetos_POO\CalculoDeDuraçãoDeAlbum\CalculoDeDuraçãoDeAlbum\obj\Debug\net8.0\refint\CalculoDeDuraçãoDeAlbum.dll
+C:\Users\natha\OneDrive\Área de Trabalho\Projetos_POO\CalculoDeDuraçãoDeAlbum\CalculoDeDuraçãoDeAlbum\obj\Debug\net8.0\CalculoDeDuraçãoDeAlbum.pdb
+C:\Users\natha\OneDrive\Área de Trabalho\Projetos_POO\CalculoDeDuraçãoDeAlbum\CalculoDeDuraçãoDeAlbum\obj\Debug\net8.0\CalculoDeDuraçãoDeAlbum.genruntimeconfig.cache
+C:\Users\natha\OneDrive\Área de Trabalho\Projetos_POO\CalculoDeDuraçãoDeAlbum\CalculoDeDuraçãoDeAlbum\obj\Debug\net8.0\ref\CalculoDeDuraçãoDeAlbum.dll
